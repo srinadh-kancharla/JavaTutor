@@ -9,6 +9,12 @@ public class Strings {
 		System.out.println(vall);
 		System.out.println(vall.charAt(2));
 		System.out.println(vall.compareTo(aaame));
+		String s1="srinadh";
+		String s2="value";
+		String s3="srinadh";
+		System.out.println(s1==s2);
+		System.out.println(s1==s3);
+		System.out.println(s2==s3);
 		
 		
 
