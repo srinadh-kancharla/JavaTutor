@@ -1,0 +1,24 @@
+package main;
+
+public class Array 
+{
+
+	public static void main(String[] args) 
+	{
+		int arr[]= {1,2,3,4,5};
+		for(int i = 0 ; i < 5 ; i++)
+		System.out.print(arr[i]+" ");
+		
+		int arra[] = new int[5];
+		for(int i=0;i<5;i++) {
+			arra[i]=(i*2)+1;
+			
+		}
+		System.out.println();
+		for(int i = 0 ; i < 5 ; i++)
+			System.out.print(arra[i]+" ");
+		
+
+	}
+
+}

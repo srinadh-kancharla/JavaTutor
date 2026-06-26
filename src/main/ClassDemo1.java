@@ -23,7 +23,7 @@ public class ClassDemo1
 
 	public static void main(String[] args) 
 	{
-		String no = "949066.16301";
+		String no = "9490661630";
 		Phone phn = new Phone();
 		phn.Call();
 		double num=Double.parseDouble(no);
