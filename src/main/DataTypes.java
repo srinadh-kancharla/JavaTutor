@@ -11,7 +11,7 @@ public class DataTypes
 		char bi='s';
 		String s="Srinadh";
 		Boolean t = true;
-//		bool k = false;
+		
 		
 		
 		System.out.println(a);
